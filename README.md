@@ -40,6 +40,6 @@ Run the following Python script:
 - s5.train_val_model.py
 
 You will find in the /output/ 
-- model'file # o5.fin_model.h5
+- model's file # o5.fin_model.h5
 - model’s predictions # o5.fin_model_pred.csv
 - activation weights # o5.fin_model_act.csv
