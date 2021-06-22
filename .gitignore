@@ -1,4 +1,4 @@
 output/*
 input/*
-!input/empty.txtx
-!output/empty.txtx
+!input/empty.txt
+!output/empty.txt
