@@ -1,4 +1,4 @@
 output/*
 input/*
 !input/empty.txt
-!output/empty.txt
+!output/o5.models_params.csv
